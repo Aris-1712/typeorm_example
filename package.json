@@ -29,7 +29,7 @@
     "babel-preset-es2015": "^6.24.1"
   },
   "dependencies": {
-    "mysql": "^2.14.1",
+    "mysql2": "^2.2.5",
     "typeorm": "^0.2.0"
   },
   "scripts": {
